@@ -17,3 +17,4 @@ The purpose of this audit is to assist the election commission to evaluate the v
 * Election Winner: Diana DeGette
 
 ## Election Audit Summary
+After performing the analysis, we can see that Denver had a much higher turnout rate than its peer counties. Additionally, Diana DeGette was able to pull the majority of votes as she earned 73.8% of the overall votes. The program is able to easily pull data from a csv and parse the information to provide instant insights. If we implement this program to a larger geographical area, we will be able to provide similar insights instantaneously to more people. 
